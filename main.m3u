@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/epg.xml"
+#PLAYLIST:قائمتي الخاصة
+
+#EXTINF:-1 group-title="المجموعات" tvg-logo="https://i.imgur.com/films.png",🎥 جميع الأفلام
+movies.m3u
+
+#EXTINF:-1 group-title="المجموعات" tvg-logo="https://i.imgur.com/tv.png",📺 جميع القنوات
+channels.m3u
+
+#EXTINF:-1 group-title="المجموعات" tvg-logo="https://i.imgur.com/sports.png",⚽ القنوات الرياضية
+sports.m3u

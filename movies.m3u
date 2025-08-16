@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="الأفلام" tvg-logo="https://i.imgur.com/movies.png",🎬 Top Movies
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
+
+#EXTINF:-1 group-title="الأفلام" tvg-logo="https://i.imgur.com/action.png",💥 Action Movies
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u
+
+#EXTINF:-1 group-title="الأفلام" tvg-logo="https://i.imgur.com/comedy.png",😂 Comedy Movies
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/comedy-movies.m3u

@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 group-title="القنوات" tvg-logo="https://i.imgur.com/egypt.png",🇪🇬 قنوات مصرية
+https://iptv-org.github.io/iptv/countries/eg.m3u
+
+#EXTINF:-1 group-title="القنوات" tvg-logo="https://i.imgur.com/ksa.png",🇸🇦 قنوات سعودية
+https://iptv-org.github.io/iptv/countries/sa.m3u
